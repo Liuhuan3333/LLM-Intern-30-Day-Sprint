@@ -1,0 +1,6 @@
+model,task,score
+Qwen-7B,推理,85.5
+Qwen-7B,代码,90.0
+Llama3-8B,推理,88.0
+Llama3-8B,代码,92.5
+Qwen-7B,数学,78.0
