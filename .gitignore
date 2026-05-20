@@ -2,3 +2,12 @@ data/
 __pycache__/
 *.pyc
 *.tar.gz
+Day10/models/
+Day10/model_cache/
+Day10/chroma_db/
+Day10/data/
+*.bin
+*.safetensors
+*.onnx
+*.ot
+*.h5
